@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JaneChinoz
+- 👋 Hi, I’m @ShumiraiC
 - 👀 I’m interested in python
 - 🌱 I’m currently learning programming foundation 
 - 💞️ I’m looking to collaborate on python 
