@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShumiraiC
 - 👀 I’m interested in development
 - 🌱 I’m currently learning programming languages
-- 💞️ I’m looking to collaborate on systms development 
+- 💞️ I’m looking to collaborate on systems development 
 - 📫 How to reach me ...
 
 <!---
